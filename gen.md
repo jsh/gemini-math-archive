@@ -50,7 +50,4 @@ and
 ```math
 \left[\begin{matrix}n\\0\end{matrix}\right] = 0
 ```
-for 
-```math
-n > 0
-```
+for $n > 0$
